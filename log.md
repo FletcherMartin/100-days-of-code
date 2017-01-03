@@ -4,7 +4,7 @@
 
 **Today's Progress**: I 3-and-a-half hours this morning working on the Random Quote Project for Free Code Camp and finished it after spending another hout-and-a-half early this afternoon. 
 
-**Total Time Spent Coding**:5 hours coding in total. 
+**Total Time Spent Coding**: 5 hours 
 
 **Thoughts** Morning: This is eternally frustrating and right now I hope whoever came up with this API crap dies in firey lake full of piranas. I feel like a hack (aka script kiddy), can't even get the CSS looking halfway decent without help. I'll come back to this later today but I've had enough for now. 
 
