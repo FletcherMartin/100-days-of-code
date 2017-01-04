@@ -29,6 +29,6 @@ Altogether it was a much better experience than yesterday.
 
 **Link(s) to work**
 1. Random Quote Generator Project for FreeCodeCamp (https://codepen.io/FMartin/full/oBNwxB/)
-2. Local Weather App (http://codepen.io/FMartin/full/NdWVgg/)
+2. Local Weather App (http://codepen.io/FMartin/full/NdWVgg/)*same paragraph*
 
 
