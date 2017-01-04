@@ -10,7 +10,8 @@ Early Afternoon: I finished the project at 1:40pm, only ended up taking a 30-45 
 
 **Time Spent Coding Today**: 5 hours
 
-**Total Time Spent Coding**: 10 hours 
+**Total Time Spent Coding**: 10 hours
+
 
 ### Day 2: Jan 4th, 2017
 
