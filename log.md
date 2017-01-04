@@ -27,7 +27,7 @@ Altogether it was a much better experience than yesterday.
 
 **Total Time Spent Coding**: 10 hours 
 
-**Link(s) to work**
+### **Link(s) to work**
 
 1. Random Quote Generator Project for FreeCodeCamp (https://codepen.io/FMartin/full/oBNwxB/)
 
