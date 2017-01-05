@@ -10,7 +10,7 @@ Early Afternoon: I finished the project at 1:40pm, only ended up taking a 30-45 
 
 **Time Spent Coding Today**: 5 hours
 
-**Total Time Spent Coding**: 10 hours
+**Total Time Spent Coding**: 5 hours
 
 
 ### Day 2: Jan 4th, 2017
@@ -36,9 +36,13 @@ Altogether it was a much better experience than yesterday.
 
 No one on the FreeCodeCamp Forum seemed to have any suggestions or answers for me, so I picked it back up at 8:30am and began looking for a new method. I wound up solving the problem by 9:15am. My wiki api is working. All that's left now is some CSS to make it look good and possibly a bit of jquery to animate it. Although I'm going to put that on pause due to some very loud construction workers and errands I need to run. 
 
-**Time Spent Coding Today**:
+I got back to coding around 12:30pm and now it's almost 6:30. The main hangups were layout related and clearing the results between each search. I wanted to go with a fadeOut() effect but because I created the results in divs I had to settle for empty(). I tried about 10 different ways to get the fade effect instead but after an hour I figured it was time to move on.
 
-**Total Time Spent Coding**: 
+Ultimately I'm satisfied with how the Wiki Viewer turned out, but I wouldn't say I'm happy about it. I actually forgot all about the bonus challenge of adding an autocomplete feature to the search but it's already pretty late as it is. I sctill have a long way to go. 
+
+**Time Spent Coding Today**: 8 hours 15 minutes 
+
+**Total Time Spent Coding**: 18 hours 15 minutes
 
 
 ### **Link(s) to work**
@@ -47,4 +51,4 @@ No one on the FreeCodeCamp Forum seemed to have any suggestions or answers for m
 
 2. Local Weather App for FreeCodeCamp (http://codepen.io/FMartin/full/NdWVgg/)
 
-
+3. Wiki Finder for FreeCodeCamp (https://codepen.io/FMartin/full/EZawKp/)
