@@ -34,6 +34,8 @@ Altogether it was a much better experience than yesterday.
 
 **Thoughts** I woke up at 4:45, was coding by 5:30, was stumped by Wiki's Api system by 6:15, was becoming increasingly frustrated so I decided to take a break for a bit and get some food. 
 
+No one on the FreeCodeCamp Forum seemed to have any suggestions or answers for me, so I picked it back up at 8:30am and began looking for a new method. I wound up solving the problem by 9:15am. My wiki api is working. All that's left now is some CSS to make it look good and possibly a bit of jquery to animate it. Although I'm going to put that on pause due to some very loud construction workers and errands I need to run. 
+
 **Time Spent Coding Today**:
 
 **Total Time Spent Coding**: 
