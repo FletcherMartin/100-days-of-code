@@ -30,7 +30,7 @@ Altogether it was a much better experience than yesterday.
 
 ### Day 1: Jan 5th, 2017
 
-**Today's Progress**: I spent 3-and-a-half hours this morning working on the Random Quote Project for Free Code Camp and finished it after spending another hout-and-a-half early this afternoon. 
+**Today's Progress**: 
 
 **Thoughts** I woke up at 4:45, was coding by 5:30, was stumped by Wiki's Api system by 6:15, was becoming increasingly frustrated so I decided to take a break for a bit and get some food. 
 
