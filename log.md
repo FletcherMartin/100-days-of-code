@@ -27,6 +27,18 @@ Altogether it was a much better experience than yesterday.
 
 **Total Time Spent Coding**: 10 hours 
 
+
+### Day 1: Jan 5th, 2017
+
+**Today's Progress**: I spent 3-and-a-half hours this morning working on the Random Quote Project for Free Code Camp and finished it after spending another hout-and-a-half early this afternoon. 
+
+**Thoughts** I woke up at 4:45, was coding by 5:30, was stumped by Wiki's Api system by 6:15, was becoming increasingly frustrated so I decided to take a break for a bit and get some food. 
+
+**Time Spent Coding Today**:
+
+**Total Time Spent Coding**: 
+
+
 ### **Link(s) to work**
 
 1. Random Quote Generator Project for FreeCodeCamp (https://codepen.io/FMartin/full/oBNwxB/)
