@@ -28,9 +28,9 @@ Altogether it was a much better experience than yesterday.
 **Total Time Spent Coding**: 10 hours 
 
 
-### Day 1: Jan 5th, 2017
+### Day 3: Jan 5th, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started and completed my FreeCodeCamp Wiki Finder Project
 
 **Thoughts** I woke up at 4:45, was coding by 5:30, was stumped by Wiki's Api system by 6:15, was becoming increasingly frustrated so I decided to take a break for a bit and get some food. 
 
@@ -43,6 +43,18 @@ Ultimately I'm satisfied with how the Wiki Viewer turned out, but I wouldn't say
 **Time Spent Coding Today**: 8 hours 15 minutes 
 
 **Total Time Spent Coding**: 18 hours 15 minutes
+
+### Day 4: Jan 6th, 2017
+
+**Today's Progress**: Started my FreeCodeCamp Twitch.tv API Project 
+
+**Thoughts** Had a late start this morning (9:30am) but the Twitch.tv project is going swimmingly. All the functionality is in place and I should be able to add a function where people can add and remove channels at will. The project creates each channel's div row dynamically. All I really have to do is complete the CSS. It's 11:30am now and I have a prospective job/client call sometime between now and 5:30pm that I need to prepare for, so the project is getting put on hold for the time being. 
+
+It's 5:30pm and I've just completed the project. It's easily the one I'm most proud of. Not only does it populate with 3 random channels, users can check and add their own channels instantly just by typing in the channel name. It's very minimal but functional and should look good on any mobile device. It was a nice way to end the Intermediate Front End Projects. 
+
+**Time Spent Coding Today**: 6 hours
+
+**Total Time Spent Coding**: 24 hours 15 minutes
 
 
 ### **Link(s) to work**
