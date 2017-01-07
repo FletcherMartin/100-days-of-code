@@ -56,6 +56,20 @@ It's 5:30pm and I've just completed the project. It's easily the one I'm most pr
 
 **Total Time Spent Coding**: 24 hours 15 minutes
 
+### Day 5: Jan 7th, 2017
+
+**Today's Progress**: I spent an hour-and-half on the FreeCodeCamp Javascript calculator project, but today I'll be focusing more on the scripting challenges than project coding. 
+
+**Thoughts** I'm starting to feel coding fatigue. I've been eating, sleeping and breathing code for about 10 days straight now. I've spent 12+ hours each day learning code. On top of that I'm irritated/depressed about my current job prospects and that I'll likely be homeless Feb 1. 
+
+I don't think it'll kill me to take today (which is Saturday) a little easy. 
+
+**Time Spent Coding Today**: 1 hour 30 minutes
+
+**Total Time Spent Coding**: 25 hours 45 minutes
+
+
+
 
 ### **Link(s) to work**
 
