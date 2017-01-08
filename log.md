@@ -68,7 +68,15 @@ I don't think it'll kill me to take today (which is Saturday) a little easy.
 
 **Total Time Spent Coding**: 25 hours 45 minutes
 
+### Day 6: Jan 8th, 2017
 
+**Today's Progress**: Continued taking the weekend easy. Only spent an hour on the calculator project, getting the CSS together. Trying to knock out the intermediate algorithm challenges - of course time spent on those doesn't count.  
+
+**Thoughts** With the CSS complete all I have to do is get the functionality going, which should make the calculator project fairly simple from here onward. 
+
+**Time Spent Coding Today**: 1 hour
+
+**Total Time Spent Coding**: 26 hours 45 minutes
 
 
 ### **Link(s) to work**
