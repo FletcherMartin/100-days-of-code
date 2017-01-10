@@ -78,6 +78,20 @@ I don't think it'll kill me to take today (which is Saturday) a little easy.
 
 **Total Time Spent Coding**: 26 hours 45 minutes
 
+### Skip/Sick Day 1: Jan 9th, 2017
+
+**Today's Progress**: I'm breaking the rules a bit. I didn't work on any projects, focused more on challenges. 
+
+**Thoughts** It's 10pm and frankly I didn't code much today. I got caught up thinking about how I'm going to be homeless come Feb 1st and cant land a job to save my life. I did code for a few hours, working on FCC algorithm challenges. Running into road block after road block on the challenges didn't help my mood, but I did learn a .reduce() function that may help with the Javascript Calc project. I spent about 3-4 hours on the challenges and then distracted myself from my life for the remainder of the day.  
+
+Speaking of the Javascript Calc Project, while I may not have actively worked on it I did think about the project quite a bit. My plan is to assign each button its labeled designation, allow the input to add each button press to an array and then join the array together to run the equation whenever '=' is pressed. The problem is the order of operations. Eg. If 3*3+3/3 is input into the calculator, the order of operations dictate that the answer is 10 (i.e. 9+1 because the multiplication and division occur before the addition). However, if the order of operations isn't followed the answer comes out to 4 if conducted strictly from left to right. 
+
+It's the biggest issue I face with the calculator, especially since I added the possibility for square roots and exponents too - which I may take off in order to simply and get through the project. 
+
+**Time Spent Coding Today**: 0 hours (on projects at least)
+
+**Total Time Spent Coding**: 26 hours 45 minutes
+
 
 ### **Link(s) to work**
 
